@@ -1,0 +1,9 @@
+{
+  "utterance": "light all on",
+  "intent_type": "AllLightOnIntent",
+  "intent": {
+    "LightKeyword": "light",
+    "AllKeyword": "all",
+    "OnKeyword": "on"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "utterance": "light off zone one",
+  "intent_type": "LightOnIntent",
+  "intent": {
+    "LightKeyword": "light",
+    "OffKeyword": "off",
+    "LightZone": "one"
+  }
+}

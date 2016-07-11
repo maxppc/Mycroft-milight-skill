@@ -1,0 +1,3 @@
+Switched {{onoff}} lights in zone  {{zone}} with {{color}} color and {{brightness}} brightness
+Lights in zone {{zone}} are now {{onoff}} with {{color}} color and {{brightness}} brightness
+{{onoff}} in zone {{zone}} color {{color}} at {{brightness}}

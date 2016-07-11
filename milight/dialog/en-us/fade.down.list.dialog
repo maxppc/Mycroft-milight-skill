@@ -1,0 +1,5 @@
+Lights in zone {{zone}} will gradually decrease {{brightness}}
+Lights in zone {{zone}} will gradually go down {{brightness}}
+Zone {{zone}} is going low till {{brightness}}
+Lights in zone {{zone}} are fading down {{brightness}}
+Brightness in zone {{zone}} will fade down to {{brightness}}
