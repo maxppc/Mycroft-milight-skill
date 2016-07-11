@@ -1,6 +1,7 @@
 # Mycroft-milight-skill
-Mycroft Skill compatible with:
-This is a controller for the following brands of light bulbs:
+
+# Description
+Mycroft Skill to control smart light bulbs of the following brands:
 * MiLight
 * LimitlessLED
 * AppLight
@@ -16,3 +17,18 @@ Full API documentation can be found here: http://www.limitlessled.com/dev/
 pip install milight
 ```
 Thanks to https://github.com/McSwindler/python-milight
+
+# Setup:
+Edit mycroft.ini to add MilightSkill section
+```
+[MilightSkill]
+host = your_hub_ip
+port = _port_ #default 8899
+```
+
+# Usage:
+```
+Mycroft, lights all on
+Mycroft, switch on first zone
+etc
+```
