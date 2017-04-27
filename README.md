@@ -1,3 +1,5 @@
+I'm waiting for my Mycroft in order to test this skill and keep developing
+
 # Mycroft-milight-skill
 
 # Description
